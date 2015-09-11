@@ -1,0 +1,4 @@
+require "quicksearch_wikipedia_searcher/engine"
+
+module QuicksearchWikipediaSearcher
+end

@@ -1,0 +1,9 @@
+en:
+    wikipedia_search:
+      display_name: "Wikipedia"
+      short_display_name: "Wikipedia"
+      search_form_placeholder: "Search Wikipedia"
+      module_callout: "Search Wikipedia"
+      error_service_mesasge: "searching Wikipedia"
+      no_results_service_message: "a different search"
+      no_results_link: "http://en.wikipedia.org/"
