@@ -1,5 +1,5 @@
-module Quicksearch
-  class WikipediaSearcher < Quicksearch::Searcher
+module QuickSearch
+  class WikipediaSearcher < QuickSearch::Searcher
 
     def search
       resp = @http.get(base_url, parameters)

@@ -1,2 +1,2 @@
-QuicksearchWikipediaSearcher::Engine.routes.draw do
+QuickSearchWikipediaSearcher::Engine.routes.draw do
 end

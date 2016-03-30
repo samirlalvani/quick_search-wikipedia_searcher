@@ -1,5 +1,5 @@
-module QuicksearchWikipediaSearcher
+module QuickSearchWikipediaSearcher
   class Engine < ::Rails::Engine
-    isolate_namespace QuicksearchWikipediaSearcher
+    isolate_namespace QuickSearchWikipediaSearcher
   end
 end

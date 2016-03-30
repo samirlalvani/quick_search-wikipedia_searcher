@@ -1,4 +1,4 @@
-#= QuicksearchWikipediaSearcher
+#= QuickSearchWikipediaSearcher
 
 ## Description
 

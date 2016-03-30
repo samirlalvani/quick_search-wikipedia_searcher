@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
 
-  mount QuicksearchWikipediaSearcher::Engine => "/quicksearch_wikipedia_searcher"
+  mount QuickSearchWikipediaSearcher::Engine => "/quicksearch_wikipedia_searcher"
 end
