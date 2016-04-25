@@ -5,7 +5,7 @@ require "quick_search_wikipedia_searcher/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "quick_search_wikipedia_searcher"
+  s.name        = "quick_search-wikipedia_searcher"
   s.version     = QuickSearchWikipediaSearcher::VERSION
   s.authors     = ["Kevin Beswick"]
   s.email       = ["kdbeswic@ncsu.edu"]
