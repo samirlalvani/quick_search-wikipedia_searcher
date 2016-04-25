@@ -13,8 +13,9 @@ Gem::Specification.new do |s|
   s.summary     = "Provides a Wikipedia searcher module for QuickSearch"
   s.description = "Provides a Wikipedia searcher module for QuickSearch"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
+  s.add_dependency "quick_search-core"
 
 end
