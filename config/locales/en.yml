@@ -1,9 +1,9 @@
 en:
     wikipedia_search:
-      display_name: "Wikipedia"
-      short_display_name: "Wikipedia"
-      search_form_placeholder: "Search Wikipedia"
-      module_callout: "Search Wikipedia"
-      error_service_mesasge: "searching Wikipedia"
+      display_name: "LibGuides"
+      short_display_name: "LibGuides"
+      search_form_placeholder: "Search LibGuides"
+      module_callout: "Search LibGuides"
+      error_service_mesasge: "searching LibGuides"
       no_results_service_message: "a different search"
-      no_results_link: "http://en.wikipedia.org/"
+      no_results_link: "http://lib.guides.umd.edu/"
